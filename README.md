@@ -1,6 +1,6 @@
 # King County House Sale Prices - ML Application
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSmuqBW_wKP_fIJbaI6lPqR6yfX63tnMSzSA&s
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fvantagedevelopers.com.pk%2Fthe-ultimate-guide-to-real-estate-in-pakistan%2F&psig=AOvVaw3gcAsqP-UoKcwprNAcp_k8&ust=1732892490342000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIirsuil_4kDFQAAAAAdAAAAABAE
 
 ## Quest Overview
 
