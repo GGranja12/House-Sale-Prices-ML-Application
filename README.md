@@ -1,8 +1,18 @@
 # King County House Sale Prices - ML Application
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fvantagedevelopers.com.pk%2Fthe-ultimate-guide-to-real-estate-in-pakistan%2F&psig=AOvVaw3gcAsqP-UoKcwprNAcp_k8&ust=1732892490342000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIirsuil_4kDFQAAAAAdAAAAABAE
+![image](https://github.com/user-attachments/assets/5d509c9e-2dc1-4820-a8e2-94cd81e3dc13)
 
 ## Quest Overview
+
+Welcome to the our House Sale Prices Machine Learning Project. 
+
+Your mission is to delve into a dataset of house sale prices for King County, including Seattle, spanning one year from May 2014 to May 2015. This project encompasses various computational tasks such as data loading, visualization, calculating returns, and portfolio analysis, tailored to the real estate domain. It aims to enhance your Python skills, deepen your understanding of real estate financial data, and hone your analytical prowess. Are you ready to embark on this analytical journey through the housing market?
+Setup
+
+You'll be undertaking this project in teams, tackling different components of the analysis across three days. The project is designed to simulate real-world real estate analysis scenarios, fostering collaborative problem-solving and the practical application of Python in real estate finance.
+About the Data:
+
+This dataset comprises one-year data (from May 2014 to May 2015) of house sale prices across King County, including Seattle. It features 21 different columns, providing a comprehensive overview of the real estate market:
 
 
 id: A unique identifier for a house.
@@ -31,12 +41,3 @@ Hi! I am delighted to present you my Electric Vehicles Charging related business
 Where to start expanding the EV charging infrastructure within the Washinton State?
 Which kind of EV charging infrastructure should be developed?
 
-Check the presentation to find out the main conclusions: https://www.canva.com/design/DAGT2wCgM54/_L_i3XAJpZv3CgFSvO95uw/view?utm_content=DAGT2wCgM54&utm_campaign=designshare&utm_medium=link&utm_source=editor
-Electric Vehicle Data API
-
-Special thanks to the Electric Vehicle API for free and easy access to this resourceful data. Feel free to explore, but keep in mind that in order to request data from the API you need to subscribe it (still applicable to free subscription): https://rapidapi.com/adrienpelletierlaroche/api/electric-vehicle-data2
-Other resources
-
-In this repository you will also find the jupyter notebook with all the useful commands to gather the main insights presented.
-Final remark
-Many thanks to Isidre and Nicolas, my teachers, and all my colleagues from Ironhack for all the support!
