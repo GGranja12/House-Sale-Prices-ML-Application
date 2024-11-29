@@ -2,15 +2,15 @@
 
 ![image](https://github.com/user-attachments/assets/5d509c9e-2dc1-4820-a8e2-94cd81e3dc13)
 
-## Quest Overview 📝
+## *Quest Overview* 📝
 
-#### *Welcome to our House Sale Prices Forecasting quest!* 
+#### Welcome to our House Sale Prices Forecasting quest!
 
-This project was developed while attending Ironhack's Data Analytics course and its main objective focused on consolidating our vizualisation and Python skills as well as enhancing our knowledge of machine learning when developing predictive models to forecast real state prices.
+This project was developed while attending Ironhack's Data Analytics course, with the main objective focused on consolidating our visualization and Python skills, as well as enhancing our knowledge of supervised machine learning through the development of predictive regression models to forecast real estate prices.
 
-## The Dataset 🗃
+## *The Dataset* 🗃
 
-The csv. file used can be downloaded by accessing the following link:
+The csv. file can be downloaded by accessing the following link:
 
 The provided dataset comprises one-year data (from May 2014 to May 2015) of house sale prices across King County, including Seattle, in the Washington State. It features 21 different columns, providing a comprehensive overview of the real estate market:
 
@@ -36,7 +36,39 @@ The provided dataset comprises one-year data (from May 2014 to May 2015) of hous
 - **sqft_living15**: The interior living space for the nearest 15 neighbors in 2015.
 - **sqft_lot15**: The land spaces for the nearest 15 neighbors in 2015.
 
-## Quest Development
+## *Quest Development* ⚙
+
+The flowchart below presents our project methodology, acting as a guide to structure and properly develop the objective proposed:
+
+
+
+
+
+
+
+#### *Data Visualizations* 📊
+
+After applying data preparation and cleaning techniques in a Python notebook we created Tableau dashboards to provide the audience with a clear and straighforward overview of insightful aspects related to our target feature: real estate prices in King's County. 
+
+No spoiler needed - just take a look and explore it for yourself: Tableau link 
+
+#### *Supervised Machine Learning - Regression Models* 🦾 📈
+
+Keeping in mind that our target feature is price, the machine learning process was divided into four distinct perspectives:
+
+**1.** Applying six different supervised models (Linear, Lasso, Ridge, KNN, XGboost...) while keeping all the 20 dataset features;
+
+**2.** Applying the same six supervised models (Linear, Lasso, Ridge, KNN, XGboost...) while dropping dataset features based only on histogram insights;
+
+**3.** Applying the Linear Regression supervised model while dropping dataset features after addressing multicollinearity and outliers;
+
+**4.** Fine-tuning the XGboost supervised model applied to all dataset features using the GridSearch hyperparameter tuning. 
+
+
+
+
+
+
 
 
 
