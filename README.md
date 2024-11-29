@@ -10,7 +10,7 @@ This project was developed while attending Ironhack's Data Analytics course, wit
 
 ## *The Dataset* 🗃
 
-The csv. file can be downloaded by accessing the following link: https://www.kaggle.com/datasets/minasameh55/king-country-houses-aa
+The csv. file can be downloaded by accessing this [Kaggle page](https://www.kaggle.com/datasets/minasameh55/king-country-houses-aa).
 
 The provided dataset comprises one-year data (from May 2014 to May 2015) of house sale prices across King County, including Seattle, in the Washington State. It features 21 different columns, providing a comprehensive overview of the real estate market:
 
@@ -46,7 +46,7 @@ The flowchart below presents our project methodology, acting as a guide to struc
 
 After applying data preparation and cleaning techniques in a Python notebook we created Tableau dashboards to provide the audience with a clear and straighforward overview of insightful aspects related to our target feature: real estate prices in King's County. 
 
-No spoiler needed - just take a look and explore it for yourself: https://public.tableau.com/views/Book1_17325726562400/PriceForecasters?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+No spoiler needed - just take a look and [explore it for yourself](https://public.tableau.com/views/Book1_17325726562400/PriceForecasters?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 #### *Supervised Machine Learning - Regression Models* 🦾 📈
 
@@ -64,8 +64,7 @@ As a final step, we calculated and compiled four different metrics (R2, RMSE, MS
 
 #### *Presentation* 🎬
 
-For a summarized overview of the project feel free to access our Canva presentation: https://www.canva.com/design/DAGXtYJOijc/vAH_wwsND7MN5hUE9gookQ/edit?utm_content=DAGXtYJOijc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
+For a summarized overview of the project feel free to access our [Canva presentation](https://www.canva.com/design/DAGXtYJOijc/vAH_wwsND7MN5hUE9gookQ/edit?utm_content=DAGXtYJOijc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 ## *Final Remarks* ✏
 
 Special thanks to our teachers, Isidre and Nicolas, for all the support and feedback.
