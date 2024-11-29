@@ -4,7 +4,8 @@
 
 ## Quest Overview
 
-Welcome to our House Sale Prices Forecasting quest! 
+                                                                                                     ##### Welcome to our House Sale Prices Forecasting quest! 
+
 This project was developed while attending Ironhack's Data Analytics course and its main objective focused on consolidating our vizualisation and Python skills as well as enhancing our knowledge of machine learning when developing predictive models to forecast real state prices.
 
 ## The Dataset
