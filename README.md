@@ -16,7 +16,7 @@ The provided dataset comprises one-year data (from May 2014 to May 2015) of hous
 
 - **id**: A unique identifier for a house.
 - **date**: The date on which the house was sold.
-- **price**: The sale price of the house (prediction target).
+- **price**: The sale price of the house (**prediction target**).
 - **bedrooms**: Number of bedrooms in the house.
 - **bathrooms**: Number of bathrooms in the house, per bedroom.
 - **sqft_living**: Square footage of the interior living space.
